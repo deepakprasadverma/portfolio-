@@ -462,7 +462,7 @@ AVAILABLE SYSTEM COMMANDS:
     contact: () => `
 [COMMUNICATION_UPLINKS]
   • LinkedIn:  https://www.linkedin.com/in/deepak-prasad-verma-872947250
-  • GitHub:    https://github.com
+  • GitHub:    https://github.com/deepakprasadverma
   • Email:     deepakprasadverma90@gmail.com
   • Terminal:  Type 'dispatch' or use the Contact Form below.
 `,
